@@ -1,4 +1,4 @@
-# mood-diary
+# Mood Diary
 A simple Mood Diary Web App  
 Link: https://hsuwei0818.github.io/mood-diary/  
   
